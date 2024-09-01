@@ -1,0 +1,532 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "Ali Yılmaz",
+        "grade_level": {
+          "id": 1,
+          "level": 1
+        },
+        "branch": {
+          "id": 6,
+          "branch": "F"
+        },
+        "subjects": [
+          {
+            "lesson_title": "Türkçe",
+            "success_rate": 75,
+            "topics": [
+              {
+                "title": "El Yazısı",
+                "correct_answers": 15,
+                "wrong_answers": 5,
+                "success_rate": 75
+              }
+            ]
+          },
+          {
+            "lesson_title": "Matematik",
+            "success_rate": 80,
+            "topics": [
+              {
+                "title": "Toplama İşlemleri",
+                "correct_answers": 16,
+                "wrong_answers": 4,
+                "success_rate": 80
+              },
+              {
+                "title": "Çıkarma İşlemleri",
+                "correct_answers": 12,
+                "wrong_answers": 8,
+                "success_rate": 60
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Ayşe Kaya",
+        "grade_level": {
+          "id": 8,
+          "level": 8
+        },
+        "branch": {
+          "id": 3,
+          "branch": "C"
+        },
+        "subjects": [
+          {
+            "lesson_title": "Matematik",
+            "success_rate": 90,
+            "topics": [
+              {
+                "title": "Köklü Sayılar",
+                "correct_answers": 18,
+                "wrong_answers": 2,
+                "success_rate": 90
+              },
+              {
+                "title": "Üslü Sayılar",
+                "correct_answers": 16,
+                "wrong_answers": 4,
+                "success_rate": 80
+              }
+            ]
+          },
+          {
+            "lesson_title": "Din Kültürü ve Ahlak Bilgisi",
+            "success_rate": 85,
+            "topics": [
+              {
+                "title": "Hz.Muhammed'in Hayatı",
+                "correct_answers": 17,
+                "wrong_answers": 3,
+                "success_rate": 85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Ali 3",
+        "grade_level": {
+          "id": 1,
+          "level": 1
+        },
+        "branch": {
+          "id": 6,
+          "branch": "F"
+        },
+        "subjects": [
+          {
+            "lesson_title": "Türkçe",
+            "success_rate": 75,
+            "topics": [
+              {
+                "title": "El Yazısı",
+                "correct_answers": 15,
+                "wrong_answers": 5,
+                "success_rate": 75
+              }
+            ]
+          },
+          {
+            "lesson_title": "Matematik",
+            "success_rate": 80,
+            "topics": [
+              {
+                "title": "Toplama İşlemleri",
+                "correct_answers": 16,
+                "wrong_answers": 4,
+                "success_rate": 80
+              },
+              {
+                "title": "Çıkarma İşlemleri",
+                "correct_answers": 12,
+                "wrong_answers": 8,
+                "success_rate": 60
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Ayşe 4",
+        "grade_level": {
+          "id": 8,
+          "level": 8
+        },
+        "branch": {
+          "id": 3,
+          "branch": "C"
+        },
+        "subjects": [
+          {
+            "lesson_title": "Matematik",
+            "success_rate": 90,
+            "topics": [
+              {
+                "title": "Köklü Sayılar",
+                "correct_answers": 18,
+                "wrong_answers": 2,
+                "success_rate": 90
+              },
+              {
+                "title": "Üslü Sayılar",
+                "correct_answers": 16,
+                "wrong_answers": 4,
+                "success_rate": 80
+              }
+            ]
+          },
+          {
+            "lesson_title": "Din Kültürü ve Ahlak Bilgisi",
+            "success_rate": 85,
+            "topics": [
+              {
+                "title": "Hz.Muhammed'in Hayatı",
+                "correct_answers": 17,
+                "wrong_answers": 3,
+                "success_rate": 85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Ali 5",
+        "grade_level": {
+          "id": 1,
+          "level": 1
+        },
+        "branch": {
+          "id": 6,
+          "branch": "F"
+        },
+        "subjects": [
+          {
+            "lesson_title": "Türkçe",
+            "success_rate": 75,
+            "topics": [
+              {
+                "title": "El Yazısı",
+                "correct_answers": 15,
+                "wrong_answers": 5,
+                "success_rate": 75
+              }
+            ]
+          },
+          {
+            "lesson_title": "Matematik",
+            "success_rate": 80,
+            "topics": [
+              {
+                "title": "Toplama İşlemleri",
+                "correct_answers": 16,
+                "wrong_answers": 4,
+                "success_rate": 80
+              },
+              {
+                "title": "Çıkarma İşlemleri",
+                "correct_answers": 12,
+                "wrong_answers": 8,
+                "success_rate": 60
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Ayşe 6",
+        "grade_level": {
+          "id": 8,
+          "level": 8
+        },
+        "branch": {
+          "id": 3,
+          "branch": "C"
+        },
+        "subjects": [
+          {
+            "lesson_title": "Matematik",
+            "success_rate": 90,
+            "topics": [
+              {
+                "title": "Köklü Sayılar",
+                "correct_answers": 18,
+                "wrong_answers": 2,
+                "success_rate": 90
+              },
+              {
+                "title": "Üslü Sayılar",
+                "correct_answers": 16,
+                "wrong_answers": 4,
+                "success_rate": 80
+              }
+            ]
+          },
+          {
+            "lesson_title": "Din Kültürü ve Ahlak Bilgisi",
+            "success_rate": 85,
+            "topics": [
+              {
+                "title": "Hz.Muhammed'in Hayatı",
+                "correct_answers": 17,
+                "wrong_answers": 3,
+                "success_rate": 85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Ali 7",
+        "grade_level": {
+          "id": 1,
+          "level": 1
+        },
+        "branch": {
+          "id": 6,
+          "branch": "F"
+        },
+        "subjects": [
+          {
+            "lesson_title": "Türkçe",
+            "success_rate": 75,
+            "topics": [
+              {
+                "title": "El Yazısı",
+                "correct_answers": 15,
+                "wrong_answers": 5,
+                "success_rate": 75
+              }
+            ]
+          },
+          {
+            "lesson_title": "Matematik",
+            "success_rate": 80,
+            "topics": [
+              {
+                "title": "Toplama İşlemleri",
+                "correct_answers": 16,
+                "wrong_answers": 4,
+                "success_rate": 80
+              },
+              {
+                "title": "Çıkarma İşlemleri",
+                "correct_answers": 12,
+                "wrong_answers": 8,
+                "success_rate": 60
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Ayşe 8",
+        "grade_level": {
+          "id": 8,
+          "level": 8
+        },
+        "branch": {
+          "id": 3,
+          "branch": "C"
+        },
+        "subjects": [
+          {
+            "lesson_title": "Matematik",
+            "success_rate": 90,
+            "topics": [
+              {
+                "title": "Köklü Sayılar",
+                "correct_answers": 18,
+                "wrong_answers": 2,
+                "success_rate": 90
+              },
+              {
+                "title": "Üslü Sayılar",
+                "correct_answers": 16,
+                "wrong_answers": 4,
+                "success_rate": 80
+              }
+            ]
+          },
+          {
+            "lesson_title": "Din Kültürü ve Ahlak Bilgisi",
+            "success_rate": 85,
+            "topics": [
+              {
+                "title": "Hz.Muhammed'in Hayatı",
+                "correct_answers": 17,
+                "wrong_answers": 3,
+                "success_rate": 85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Ali 9",
+        "grade_level": {
+          "id": 1,
+          "level": 1
+        },
+        "branch": {
+          "id": 6,
+          "branch": "F"
+        },
+        "subjects": [
+          {
+            "lesson_title": "Türkçe",
+            "success_rate": 75,
+            "topics": [
+              {
+                "title": "El Yazısı",
+                "correct_answers": 15,
+                "wrong_answers": 5,
+                "success_rate": 75
+              }
+            ]
+          },
+          {
+            "lesson_title": "Matematik",
+            "success_rate": 80,
+            "topics": [
+              {
+                "title": "Toplama İşlemleri",
+                "correct_answers": 16,
+                "wrong_answers": 4,
+                "success_rate": 80
+              },
+              {
+                "title": "Çıkarma İşlemleri",
+                "correct_answers": 12,
+                "wrong_answers": 8,
+                "success_rate": 60
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Ayşe 10",
+        "grade_level": {
+          "id": 8,
+          "level": 8
+        },
+        "branch": {
+          "id": 3,
+          "branch": "C"
+        },
+        "subjects": [
+          {
+            "lesson_title": "Matematik",
+            "success_rate": 90,
+            "topics": [
+              {
+                "title": "Köklü Sayılar",
+                "correct_answers": 18,
+                "wrong_answers": 2,
+                "success_rate": 90
+              },
+              {
+                "title": "Üslü Sayılar",
+                "correct_answers": 16,
+                "wrong_answers": 4,
+                "success_rate": 80
+              }
+            ]
+          },
+          {
+            "lesson_title": "Din Kültürü ve Ahlak Bilgisi",
+            "success_rate": 85,
+            "topics": [
+              {
+                "title": "Hz.Muhammed'in Hayatı",
+                "correct_answers": 17,
+                "wrong_answers": 3,
+                "success_rate": 85
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Ali 11",
+        "grade_level": {
+          "id": 1,
+          "level": 1
+        },
+        "branch": {
+          "id": 6,
+          "branch": "F"
+        },
+        "subjects": [
+          {
+            "lesson_title": "Türkçe",
+            "success_rate": 75,
+            "topics": [
+              {
+                "title": "El Yazısı",
+                "correct_answers": 15,
+                "wrong_answers": 5,
+                "success_rate": 75
+              }
+            ]
+          },
+          {
+            "lesson_title": "Matematik",
+            "success_rate": 80,
+            "topics": [
+              {
+                "title": "Toplama İşlemleri",
+                "correct_answers": 16,
+                "wrong_answers": 4,
+                "success_rate": 80
+              },
+              {
+                "title": "Çıkarma İşlemleri",
+                "correct_answers": 12,
+                "wrong_answers": 8,
+                "success_rate": 60
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Ayşe 12",
+        "grade_level": {
+          "id": 8,
+          "level": 8
+        },
+        "branch": {
+          "id": 3,
+          "branch": "C"
+        },
+        "subjects": [
+          {
+            "lesson_title": "Matematik",
+            "success_rate": 90,
+            "topics": [
+              {
+                "title": "Köklü Sayılar",
+                "correct_answers": 18,
+                "wrong_answers": 2,
+                "success_rate": 90
+              },
+              {
+                "title": "Üslü Sayılar",
+                "correct_answers": 16,
+                "wrong_answers": 4,
+                "success_rate": 80
+              }
+            ]
+          },
+          {
+            "lesson_title": "Din Kültürü ve Ahlak Bilgisi",
+            "success_rate": 85,
+            "topics": [
+              {
+                "title": "Hz.Muhammed'in Hayatı",
+                "correct_answers": 17,
+                "wrong_answers": 3,
+                "success_rate": 85
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
